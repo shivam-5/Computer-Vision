@@ -1,7 +1,7 @@
 # Computer-Vision
 
 1. Image segmentation: Creating a generalized segmentation model that can separate out useful objects in any new image.
-  - Using edge detectors like cann, Laplacia-of-gaussian
+  - Using edge detectors like canny, Laplacian-of-gaussian
   - Using morphological operations
 
 
